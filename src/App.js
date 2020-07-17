@@ -18,7 +18,7 @@ function App() {
           </button>
 
           <button className = "buttonSize" onClick = {()=> setMorning(!isMorning)}>
-             Day Update
+             Change Colour
           </button>
     </div>
   );
